@@ -1,0 +1,20 @@
+elephant 大象 n.
+jacket 夹克 n.
+car 汽车 n.
+banana 香蕉 n.
+dog 狗 n.
+flower 花 n.
+apple 苹果 n.
+hat 帽子 n.
+guitar 吉他 n.
+pencil 铅笔 n.
+coffee 咖啡 n.
+sun 太阳 n.
+computer 电脑 n.
+book 书 n.
+shirt 衬衫 n.
+shoe 鞋 n.
+door 门 n.
+table 桌子 n.
+water 水 n.
+
